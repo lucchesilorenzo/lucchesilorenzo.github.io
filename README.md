@@ -19,21 +19,16 @@ Hey there! I'm Lorenzo Lucchesi, a Full Stack Developer student who loves techno
 
 In the **Skills** section, you'll find detailed information about my proficiency in various technologies, including:
 
-- **Front-end:** HTML, CSS, JavaScript
+- **Front-end:** HTML, CSS, JavaScript, React
 - **Back-end:** Python, Django
 
 ## Projects
 
-The **Projects** section features a collection of my full-stack web apps and front-end mini projects, including:
+The **Projects** section features a collection of my full-stack web apps and front-end projects, including:
 
 - **WatchWise - Media Tracker**
-- **Counter**
-- **Pokémon Finder**
-- **Dragon Ball Characters**
-- **To-Do List**
-- **Calculator**
-- **Breaking Bad Quotes Generator**
-- **Currency Converter**
+- **Front-end Projects**
+- **React Projects**
 
 Each project is described with its functionality and the technologies used.
 
