@@ -29,6 +29,9 @@ The **Projects** section features a collection of my full-stack web apps and fro
 - **WatchWise - Media Tracker**
 - **Front-end Projects**
 - **React Projects**
+- **The Energy Bulletin**
+- **Travel Tracker**
+- **Bank Account Manager**
 
 Each project is described with its functionality and the technologies used.
 
