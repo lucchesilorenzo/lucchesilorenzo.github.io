@@ -32,6 +32,7 @@ The **Projects** section features a collection of my full-stack web apps and fro
 - **The Energy Bulletin**
 - **Travel Tracker**
 - **Bank Account Manager**
+- **React Pizzeria**
 
 Each project is described with its functionality and the technologies used.
 
