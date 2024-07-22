@@ -17,22 +17,11 @@ Hey there! I'm Lorenzo Lucchesi, a Full Stack Developer student who loves techno
 
 ## Skills
 
-In the **Skills** section, you'll find detailed information about my proficiency in various technologies, including:
-
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Python, Django
+In the **Skills** section, you'll find detailed information about my proficiency in various technologies.
 
 ## Projects
 
-The **Projects** section features a collection of my full-stack web apps and front-end projects, including:
-
-- **WatchWise - Media Tracker**
-- **Front-end Projects**
-- **React Projects**
-- **The Energy Bulletin**
-- **Travel Tracker**
-- **Bank Account Manager**
-- **React Pizzeria**
+The **Projects** section features a collection of my full-stack web apps and front-end projects.
 
 Each project is described with its functionality and the technologies used.
 
